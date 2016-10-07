@@ -1,0 +1,14 @@
+c:\users\oskar\documents\visual studio 2015\Projects\Dragon Clicker\Dragon Clicker\bin\Debug\Dragon Clicker.exe.config
+c:\users\oskar\documents\visual studio 2015\Projects\Dragon Clicker\Dragon Clicker\bin\Debug\Dragon Clicker.exe
+c:\users\oskar\documents\visual studio 2015\Projects\Dragon Clicker\Dragon Clicker\bin\Debug\Dragon Clicker.pdb
+c:\users\oskar\documents\visual studio 2015\Projects\Dragon Clicker\Dragon Clicker\obj\Debug\Dragon Clicker.csprojResolveAssemblyReference.cache
+c:\users\oskar\documents\visual studio 2015\Projects\Dragon Clicker\Dragon Clicker\obj\Debug\Dragon_Clicker.Form1.resources
+c:\users\oskar\documents\visual studio 2015\Projects\Dragon Clicker\Dragon Clicker\obj\Debug\Dragon_Clicker.Properties.Resources.resources
+c:\users\oskar\documents\visual studio 2015\Projects\Dragon Clicker\Dragon Clicker\obj\Debug\Dragon Clicker.csproj.GenerateResource.Cache
+c:\users\oskar\documents\visual studio 2015\Projects\Dragon Clicker\Dragon Clicker\obj\Debug\Dragon Clicker.exe
+c:\users\oskar\documents\visual studio 2015\Projects\Dragon Clicker\Dragon Clicker\obj\Debug\Dragon Clicker.pdb
+c:\users\oskar\documents\visual studio 2015\Projects\Dragon Clicker\Dragon Clicker\bin\Debug\Interop.WMPLib.dll
+c:\users\oskar\documents\visual studio 2015\Projects\Dragon Clicker\Dragon Clicker\bin\Debug\AxInterop.WMPLib.dll
+c:\users\oskar\documents\visual studio 2015\Projects\Dragon Clicker\Dragon Clicker\obj\Debug\Interop.WMPLib.dll
+c:\users\oskar\documents\visual studio 2015\Projects\Dragon Clicker\Dragon Clicker\obj\Debug\AxInterop.WMPLib.dll
+c:\users\oskar\documents\visual studio 2015\Projects\Dragon Clicker\Dragon Clicker\obj\Debug\Dragon Clicker.csproj.ResolveComReference.cache
